@@ -45,6 +45,7 @@ public class LottoPicker {
               Iterative - loops:
                     while loop - while a condition is true, keep executing
                     do while loop - similar to a while loop, guaranteed to run once
+                    Do While executes once even when the condition is false
 
               Condition -
                     if - checks if a condition is true, if it is it will execute once
